@@ -12,9 +12,9 @@ I am a very optimistic person with my plans and goals, and especially with the g
 #
 <div align="center">
 
-![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=PauloGui&show_icons=true&theme=dark)
+![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=paulopgss&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloGui&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopgss&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
    </div>
 
